@@ -96,12 +96,8 @@ section h2{
 
 section p {
 	//margin: 2em;
-	text-indent: -1em;
+	text-indent: 1em;
 	margin-left: 20px;
-}
-
-#philosophie{
-	text-align: center;
 }
 
 section h3 {
